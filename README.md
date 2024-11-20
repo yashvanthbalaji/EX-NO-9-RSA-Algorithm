@@ -36,8 +36,8 @@ Step 5: **Security Foundation
 The security of RSA relies on the difficulty of factoring large numbers; thus, choosing sufficiently large prime numbers for \( p \) and \( q \) is crucial for security.
 
 ## Program:
-### Name: MUKESH P
-### Reg.No: 212222240068
+### Name: BALAJI.A
+### Reg.No: 212223040023
 ```
 
 #include <stdio.h>
